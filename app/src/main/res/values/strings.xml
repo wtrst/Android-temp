@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="correct_toast">Correct!!</string>
+    <string name="wrong_toast">Wrong!!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="question_1">Q1 : Japan is called \"Nippon\" in Japanese.</string>
+    <string name="question_2">Q2 : \"Arigato\" means "Sorry".</string>
+    <string name="question_3">Q3 : Main island of Japan is called \"Kanto\".</string>
+    <string name="question_4">Q4 : Japanese company which owns the product "Hello Kitty" is \"Sanrio\".</string>
+    <string name="question_5">Q5 : The highest mountain in Japana is \"Mt.Fuji\".</string>
+    <string name="question_6">Q6 : Osaka used to be the capital of Japan.</string>
+    <string name="question_7">Q7 : A prefecture which is located in the most southern edge of Japan is Okinawa.</string>
+    <string name="question_8">Q8 : Tokyo is supposed to have the Olympics in 2020.</string>
+    <string name="question_9">Q9 : \"Tsukiji\" is well known as the place which has a big vegetable market.</string>
+    <string name="question_10">Q10 : \"Itadakimasu\" is a word that Japanese people say after a meal.</string>
+</resources>
